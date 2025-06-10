@@ -13,4 +13,3 @@ for row in df:
     types.add(row)
 
 print(len(types))
-print(types)
